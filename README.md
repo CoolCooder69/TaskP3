@@ -74,12 +74,6 @@ Note: The footer has links like Gallery, Articles, Tutorials, FAQ, Contact, Priv
 - Styling with Tailwind CSS classes like flex and grid
 - Using icons from lucide-react
 
-## Things I want to add later
-
-- Make the remaining pages (Gallery, Articles, Tutorials, FAQ, Contact, etc.)
-- Use a real database instead of the arrays in `App.jsx`
-- Use my own images instead of Picsum
-- Make it better for mobile screens
 
 ## Author
 
