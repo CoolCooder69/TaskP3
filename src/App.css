@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@import 'animate.css';
+* {
+  box-sizing: border-box;
+  font-family: "Google Sans";
+}
